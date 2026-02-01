@@ -1,0 +1,37 @@
+{
+  "hash": "ddc5446c",
+  "configHash": "e5599809",
+  "lockfileHash": "415c5869",
+  "browserHash": "2fa21d68",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "353846be",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "ddd3a683",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/@vueuse/core/dist/index.js",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "118e8c27",
+      "needsInterop": false
+    },
+    "medium-zoom": {
+      "src": "../../../../node_modules/medium-zoom/dist/medium-zoom.esm.js",
+      "file": "medium-zoom.js",
+      "fileHash": "5fa5e5b6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ELXMO34Z": {
+      "file": "chunk-ELXMO34Z.js"
+    }
+  }
+}

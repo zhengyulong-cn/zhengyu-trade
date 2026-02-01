@@ -40,6 +40,24 @@ const albrooksPriceActionSidebar = [
         ],
       },
       {
+        text: "09 回调和数K线",
+        collapsed: false,
+        items: [
+          {
+            text: "09A",
+            link: "/albrooks-price-action/09-pullbacks-and-bar-counting/09A",
+          },
+          {
+            text: "09B",
+            link: "/albrooks-price-action/09-pullbacks-and-bar-counting/09B",
+          },
+          {
+            text: "09C",
+            link: "/albrooks-price-action/09-pullbacks-and-bar-counting/09C",
+          },
+        ],
+      },
+      {
         text: "21 反转",
         collapsed: false,
         items: [

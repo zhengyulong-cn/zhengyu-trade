@@ -58,6 +58,24 @@ const albrooksPriceActionSidebar = [
         ],
       },
       {
+        text: "19 支撑和阻力",
+        collapsed: false,
+        items: [
+          {
+            text: "19A",
+            link: "/albrooks-price-action/19-support-and-resistance/19A",
+          },
+          {
+            text: "19B",
+            link: "/albrooks-price-action/19-support-and-resistance/19B",
+          },
+          {
+            text: "19C",
+            link: "/albrooks-price-action/19-support-and-resistance/19C",
+          },
+        ],
+      },
+      {
         text: "21 反转",
         collapsed: false,
         items: [
@@ -88,9 +106,9 @@ const albrooksPriceActionSidebar = [
             text: "37B",
             link: "/albrooks-price-action/37-how-to-trade/37B",
           },
-        ]
+        ],
       },
-            {
+      {
         text: "38 交易MTR顶部",
         collapsed: false,
         items: [
@@ -102,10 +120,32 @@ const albrooksPriceActionSidebar = [
             text: "38B",
             link: "/albrooks-price-action/38-trading-MTR-tops/38B",
           },
-        ]
+        ],
       },
-    ]
-  }
+      {
+        text: "47 在交易区间内交易",
+        collapsed: false,
+        items: [
+          {
+            text: "47A",
+            link: "/albrooks-price-action/47-trading-in-trading-range/47A",
+          },
+          {
+            text: "47B",
+            link: "/albrooks-price-action/47-trading-in-trading-range/47B",
+          },
+          {
+            text: "47C",
+            link: "/albrooks-price-action/47-trading-in-trading-range/47C",
+          },
+          {
+            text: "47D",
+            link: "/albrooks-price-action/47-trading-in-trading-range/47D",
+          },
+        ],
+      },
+    ],
+  },
 ];
 
 export default albrooksPriceActionSidebar;

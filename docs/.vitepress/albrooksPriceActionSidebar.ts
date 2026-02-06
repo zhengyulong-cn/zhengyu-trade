@@ -58,6 +58,24 @@ const albrooksPriceActionSidebar = [
         ],
       },
       {
+        text: "12 市场周期",
+        collapsed: false,
+        items: [
+          {
+            text: "12A",
+            link: "/albrooks-price-action/12-market-cycle/12A",
+          },
+          {
+            text: "12B",
+            link: "/albrooks-price-action/12-market-cycle/12B",
+          },
+          {
+            text: "12C",
+            link: "/albrooks-price-action/12-market-cycle/12C",
+          },
+        ],
+      },
+      {
         text: "19 支撑和阻力",
         collapsed: false,
         items: [
@@ -119,6 +137,50 @@ const albrooksPriceActionSidebar = [
           {
             text: "38B",
             link: "/albrooks-price-action/38-trading-MTR-tops/38B",
+          },
+        ],
+      },
+            {
+        text: "43 交易多头窄通道",
+        collapsed: false,
+        items: [
+          {
+            text: "43A",
+            link: "/albrooks-price-action/43-trading-tight-bull-channels/43A",
+          },
+          {
+            text: "43B",
+            link: "/albrooks-price-action/43-trading-tight-bull-channels/43B",
+          },
+          {
+            text: "43C",
+            link: "/albrooks-price-action/43-trading-tight-bull-channels/43C",
+          },
+          {
+            text: "43D",
+            link: "/albrooks-price-action/43-trading-tight-bull-channels/43D",
+          },
+        ],
+      },
+      {
+        text: "45 交易多头宽通道",
+        collapsed: false,
+        items: [
+          {
+            text: "45A",
+            link: "/albrooks-price-action/45-trading-broad-bull-channels/45A",
+          },
+          {
+            text: "45B",
+            link: "/albrooks-price-action/45-trading-broad-bull-channels/45B",
+          },
+          {
+            text: "45C",
+            link: "/albrooks-price-action/45-trading-broad-bull-channels/45C",
+          },
+          {
+            text: "45D",
+            link: "/albrooks-price-action/45-trading-broad-bull-channels/45D",
           },
         ],
       },

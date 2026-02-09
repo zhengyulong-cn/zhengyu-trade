@@ -21,6 +21,6 @@ export default defineConfig({
       '/trading-system/': tradingSystemSidebar,
       '/trading-review/': tradingReviewSidebar,
     },
-    outline: [2, 3],
+    outline: [2, 4],
   },
 })
